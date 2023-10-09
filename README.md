@@ -1,1 +1,2 @@
-# 8_bit_ALU
+# 8_Bit_ALU
+Design the 8-bit ALU.
