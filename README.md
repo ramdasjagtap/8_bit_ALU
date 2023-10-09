@@ -10,10 +10,3 @@ In this repo you can find independent modules that can perform 8-bit arithmetic 
 </p>
 
 Inputs of an ALU are primarily the operands which are the data to be operated on. In addition, an ALU has opcodes (operation codes) as inputs to control the type of operation the ALU shall perform.
-
-
-## Pin description  
-
-<p align = 'center'>
-    <img src='assets/pin_table.PNG' width=700 height=250>
-</p>
